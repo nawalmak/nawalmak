@@ -1,6 +1,5 @@
 # Hello World!
-## My name is Nawal Badar & I am currently a sophomore student in Computer Games Development.
-*** Certifications: ***
+### My name is Nawal Badar & I am currently a sophomore student in Computer Games Development.
 <!--
 **nawalmak/nawalmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
